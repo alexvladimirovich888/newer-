@@ -1,0 +1,14 @@
+{
+  "name": "stacks-bowers-auctions",
+  "version": "1.0.0",
+  "description": "Stacks Bowers Auctions static application",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "echo 'Static web application ready'"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

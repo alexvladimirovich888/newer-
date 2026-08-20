@@ -1,0 +1,8 @@
+{
+  "name": "Stacks Bowers Auctions",
+  "description": "Explore rare coins, currency, medals, and tokens in live and timed auctions.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
